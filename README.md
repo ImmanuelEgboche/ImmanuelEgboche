@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ImmanuelEgboche
-- 👀 I’m interested in all things tech 
-- 🌱 I’m currently learning Python, Go and Javascript
-- 💞️ I’m looking to collaborate on all sorts of open source projects 
-- 📫 How to reach me follow me on twitter @ImmanuelEgboche
+👋 Hi, I'm Immanuel a Software Engineer.
 
+- Currently expanding my skills in Python, C++, and JavaScript.
 
-This is my ✨ special ✨  GitHub profile. I'm glad you stopped to visit hopefully youll learn a thing or two, or maybe teach me something 👀 
+- I am actively seeking opportunities to contribute to open source projects, fostering collaboration and making meaningful contributions to the tech community. So please feel free to reach out!
+
+- Connect with me on Twitter [@ImmanuelEgboche](https://twitter.com/ImmanuelEgboche) to engage in discussions, share insights, or explore potential collaborations.
+
 
